@@ -4,6 +4,7 @@ Willkommen auf der offiziellen **Support-Seite von Karlscraft**!
 Hier kannst du Fragen stellen, Probleme melden und Hilfe zum Server bekommen.
 
 👉 **Wichtig:** Das hier ist kein Code-Repo, sondern unser **Hilfecenter**.
+> Das Modpack-Repo findest du [hier](https://github.com/ViVBling/RevelationPlusPlus) und das allgemeine Karlscraft-Repo findest du [hier](https://github.com/ViVBling/Karlscraft)
 
 ---
 
