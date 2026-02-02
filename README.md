@@ -14,6 +14,8 @@ Hier kannst du Fragen stellen, Probleme melden und Hilfe zum Server bekommen.
 3. Wähle **„Frage stellen“** oder **„Bug melden“**
 4. Fülle alles aus und schicke es ab
 
+⚠ **Wichtig:** Benutze die vorhandenen Labels, um den Typ deines Problems genau zu definieren!
+
 📌 Je genauer du bist, desto schneller können wir helfen!
 
 ---
