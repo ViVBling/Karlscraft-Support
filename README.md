@@ -10,10 +10,9 @@ Hier kannst du Fragen stellen, Probleme melden und Hilfe zum Server bekommen.
 
 ## ❓ Wie stelle ich eine Frage?
 
-1. Gehe oben auf **„Issues“**
-2. Klicke auf **„New Issue“**
-3. Wähle **„Frage stellen“** oder **„Bug melden“**
-4. Fülle alles aus und schicke es ab
+1. Gehe oben auf **`Issues`**
+2. Klicke auf **`New issue`**
+3. Fülle alles aus und schicke es ab
 
 ⚠ **Wichtig:** Benutze die vorhandenen Labels, um den Typ deines Problems genau zu definieren!
 
